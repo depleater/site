@@ -1,602 +1,752 @@
 {
     "adelaide": {
         "name": "Adelaide",
+        "margin": 15.376565,
         "state": "sa"
     },
     "aston": {
         "name": "Aston",
+        "margin": 3.519342,
         "state": "vic"
     },
     "ballarat": {
         "name": "Ballarat",
+        "margin": 23.409251,
         "state": "vic"
     },
     "banks": {
         "name": "Banks",
+        "margin": 2.898568,
         "state": "nsw"
     },
     "barker": {
         "name": "Barker",
+        "margin": 25.762172,
         "state": "sa"
     },
     "barton": {
         "name": "Barton",
+        "margin": 13.727235,
         "state": "nsw"
     },
     "bass": {
         "name": "Bass",
+        "margin": 13.477451,
         "state": "tas"
     },
     "batman": {
         "name": "Batman",
+        "margin": 15.717181,
         "state": "vic"
     },
     "bendigo": {
         "name": "Bendigo",
+        "margin": 19.065735,
         "state": "vic"
     },
     "bennelong": {
         "name": "Bennelong",
+        "margin": 6.246207,
         "state": "nsw"
     },
     "berowra": {
         "name": "Berowra",
+        "margin": 32.406327,
         "state": "nsw"
     },
     "blair": {
         "name": "Blair",
+        "margin": 8.471713,
         "state": "qld"
     },
     "blaxland": {
         "name": "Blaxland",
+        "margin": 24.469728,
         "state": "nsw"
     },
     "bonner": {
         "name": "Bonner",
+        "margin": 5.641088,
         "state": "qld"
     },
     "boothby": {
         "name": "Boothby",
+        "margin": 1.493691,
         "state": "sa"
     },
     "bowman": {
         "name": "Bowman",
+        "margin": 20.788334,
         "state": "qld"
     },
     "braddon": {
         "name": "Braddon",
+        "margin": 14.953057,
         "state": "tas"
     },
     "bradfield": {
         "name": "Bradfield",
+        "margin": 36.363010,
         "state": "nsw"
     },
     "brand": {
         "name": "Brand",
+        "margin": 6.654022,
         "state": "wa"
     },
     "brisbane": {
         "name": "Brisbane",
+        "margin": 2.259127,
         "state": "qld"
     },
     "bruce": {
         "name": "Bruce",
+        "margin": 16.233859,
         "state": "vic"
     },
     "calare": {
         "name": "Calare",
+        "margin": 21.487640,
         "state": "nsw"
     },
     "calwell": {
         "name": "Calwell",
+        "margin": 39.445371,
         "state": "vic"
     },
     "canberra": {
         "name": "Canberra",
+        "margin": 18.290595,
         "state": "act"
     },
     "canning": {
         "name": "Canning",
+        "margin": 4.387114,
         "state": "wa"
     },
     "capricornia": {
         "name": "Capricornia",
+        "margin": 7.365016,
         "state": "qld"
     },
     "casey": {
         "name": "Casey",
+        "margin": 8.366211,
         "state": "vic"
     },
     "charlton": {
         "name": "Charlton",
+        "margin": 25.334617,
         "state": "nsw"
     },
     "chifley": {
         "name": "Chifley",
+        "margin": 24.679300,
         "state": "nsw"
     },
     "chisholm": {
         "name": "Chisholm",
+        "margin": 12.224661,
         "state": "vic"
     },
     "cook": {
         "name": "Cook",
+        "margin": 25.324820,
         "state": "nsw"
     },
     "corangamite": {
         "name": "Corangamite",
+        "margin": 0.822848,
         "state": "vic"
     },
     "corio": {
         "name": "Corio",
+        "margin": 28.435417,
         "state": "vic"
     },
     "cowan": {
         "name": "Cowan",
+        "margin": 12.579009,
         "state": "wa"
     },
     "cowper": {
         "name": "Cowper",
+        "margin": 18.535131,
         "state": "nsw"
     },
     "cunningham": {
         "name": "Cunningham",
+        "margin": 26.348664,
         "state": "nsw"
     },
     "curtin": {
         "name": "Curtin",
+        "margin": 32.371955,
         "state": "wa"
     },
     "dawson": {
         "name": "Dawson",
+        "margin": 4.869257,
         "state": "qld"
     },
     "deakin": {
         "name": "Deakin",
+        "margin": 4.817500,
         "state": "vic"
     },
     "denison": {
         "name": "Denison",
+        "margin": 2.428345,
         "state": "tas"
     },
     "dickson": {
         "name": "Dickson",
+        "margin": 10.255245,
         "state": "qld"
     },
     "dobell": {
         "name": "Dobell",
+        "margin": 10.140968,
         "state": "nsw"
     },
     "dunkley": {
         "name": "Dunkley",
+        "margin": 2.044289,
         "state": "vic"
     },
     "durack": {
         "name": "Durack",
+        "margin": 27.345204,
         "state": "wa"
     },
-    "eden-monaro": {
+    "edenmonaro": {
         "name": "Eden-Monaro",
+        "margin": 8.477912,
         "state": "nsw"
     },
     "fadden": {
         "name": "Fadden",
+        "margin": 28.372649,
         "state": "qld"
     },
     "fairfax": {
         "name": "Fairfax",
+        "margin": 13.909898,
         "state": "qld"
     },
     "farrer": {
         "name": "Farrer",
+        "margin": 29.029380,
         "state": "nsw"
     },
     "fisher": {
         "name": "Fisher",
+        "margin": 8.260468,
         "state": "qld"
     },
     "flinders": {
         "name": "Flinders",
+        "margin": 18.228528,
         "state": "vic"
     },
     "flynn": {
         "name": "Flynn",
+        "margin": 7.159666,
         "state": "qld"
     },
     "forde": {
         "name": "Forde",
+        "margin": 3.250875,
         "state": "qld"
     },
     "forrest": {
         "name": "Forrest",
+        "margin": 17.476427,
         "state": "wa"
     },
     "fowler": {
         "name": "Fowler",
+        "margin": 17.525559,
         "state": "nsw"
     },
     "franklin": {
         "name": "Franklin",
+        "margin": 21.640140,
         "state": "tas"
     },
     "fraser": {
         "name": "Fraser",
+        "margin": 28.406595,
         "state": "act"
     },
     "fremantle": {
         "name": "Fremantle",
+        "margin": 11.392344,
         "state": "wa"
     },
     "gellibrand": {
         "name": "Gellibrand",
+        "margin": 47.799142,
         "state": "vic"
     },
     "gilmore": {
         "name": "Gilmore",
+        "margin": 10.637117,
         "state": "nsw"
     },
     "gippsland": {
         "name": "Gippsland",
+        "margin": 22.898819,
         "state": "vic"
     },
     "goldstein": {
         "name": "Goldstein",
+        "margin": 12.933135,
         "state": "vic"
     },
     "gorton": {
         "name": "Gorton",
+        "margin": 44.318008,
         "state": "vic"
     },
     "grayndler": {
         "name": "Grayndler",
+        "margin": 8.453970,
         "state": "nsw"
     },
     "greenway": {
         "name": "Greenway",
+        "margin": 1.767791,
         "state": "nsw"
     },
     "grey": {
         "name": "Grey",
+        "margin": 22.313881,
         "state": "sa"
     },
     "griffith": {
         "name": "Griffith",
+        "margin": 16.915386,
         "state": "qld"
     },
     "groom": {
         "name": "Groom",
+        "margin": 37.068200,
         "state": "qld"
     },
     "hasluck": {
         "name": "Hasluck",
+        "margin": 1.149147,
         "state": "wa"
     },
     "herbert": {
         "name": "Herbert",
+        "margin": 4.333190,
         "state": "qld"
     },
     "higgins": {
         "name": "Higgins",
+        "margin": 13.506337,
         "state": "vic"
     },
     "hindmarsh": {
         "name": "Hindmarsh",
+        "margin": 11.400520,
         "state": "sa"
     },
     "hinkler": {
         "name": "Hinkler",
+        "margin": 20.773126,
         "state": "qld"
     },
     "holt": {
         "name": "Holt",
+        "margin": 26.457690,
         "state": "vic"
     },
     "hotham": {
         "name": "Hotham",
+        "margin": 27.001008,
         "state": "vic"
     },
     "hughes": {
         "name": "Hughes",
+        "margin": 10.347944,
         "state": "nsw"
     },
     "hume": {
         "name": "Hume",
+        "margin": 17.430922,
         "state": "nsw"
     },
     "hunter": {
         "name": "Hunter",
+        "margin": 24.955112,
         "state": "nsw"
     },
     "indi": {
         "name": "Indi",
+        "margin": 19.887565,
         "state": "vic"
     },
     "isaacs": {
         "name": "Isaacs",
+        "margin": 22.041286,
         "state": "vic"
     },
     "jagajaga": {
         "name": "Jagajaga",
+        "margin": 23.030381,
         "state": "vic"
     },
     "kennedy": {
         "name": "Kennedy",
+        "margin": 36.687795,
         "state": "qld"
     },
-    "kingsford-smith": {
+    "kingsfordsmith": {
         "name": "Kingsford Smith",
+        "margin": 10.324397,
         "state": "nsw"
     },
     "kingston": {
         "name": "Kingston",
+        "margin": 27.828473,
         "state": "sa"
     },
     "kooyong": {
         "name": "Kooyong",
-        "state": "vic"
-    },
-    "la-trobe": {
-        "name": "La Trobe",
+        "margin": 15.095895,
         "state": "vic"
     },
     "lalor": {
         "name": "Lalor",
+        "margin": 44.303601,
+        "state": "vic"
+    },
+    "latrobe": {
+        "name": "La Trobe",
+        "margin": 1.819162,
         "state": "vic"
     },
     "leichhardt": {
         "name": "Leichhardt",
+        "margin": 9.103894,
         "state": "qld"
     },
     "lilley": {
         "name": "Lilley",
+        "margin": 6.352292,
         "state": "qld"
     },
     "lindsay": {
         "name": "Lindsay",
+        "margin": 2.240859,
         "state": "nsw"
     },
     "lingiari": {
         "name": "Lingiari",
+        "margin": 7.396277,
         "state": "nt"
     },
     "longman": {
         "name": "Longman",
+        "margin": 3.838304,
         "state": "qld"
     },
     "lyne": {
         "name": "Lyne",
+        "margin": 25.453411,
         "state": "nsw"
     },
     "lyons": {
         "name": "Lyons",
+        "margin": 24.580640,
         "state": "tas"
     },
     "macarthur": {
         "name": "Macarthur",
+        "margin": 6.036853,
         "state": "nsw"
     },
     "mackellar": {
         "name": "Mackellar",
+        "margin": 31.446613,
         "state": "nsw"
     },
     "macquarie": {
         "name": "Macquarie",
+        "margin": 2.513586,
         "state": "nsw"
     },
     "makin": {
         "name": "Makin",
+        "margin": 24.397827,
         "state": "sa"
     },
     "mallee": {
         "name": "Mallee",
+        "margin": 48.824475,
         "state": "vic"
     },
     "maranoa": {
         "name": "Maranoa",
+        "margin": 45.780022,
         "state": "qld"
     },
     "maribyrnong": {
         "name": "Maribyrnong",
+        "margin": 33.712062,
         "state": "vic"
     },
     "mayo": {
         "name": "Mayo",
+        "margin": 14.690489,
         "state": "sa"
     },
     "mcewen": {
         "name": "McEwen",
+        "margin": 10.637731,
         "state": "vic"
     },
     "mcmahon": {
         "name": "McMahon",
+        "margin": 15.627348,
         "state": "nsw"
     },
     "mcmillan": {
         "name": "McMillan",
+        "margin": 8.825330,
         "state": "vic"
     },
     "mcpherson": {
         "name": "McPherson",
+        "margin": 20.551456,
         "state": "qld"
     },
     "melbourne": {
         "name": "Melbourne",
+        "margin": 12.080334,
         "state": "vic"
     },
-    "melbourne-ports": {
+    "melbourneports": {
         "name": "Melbourne Ports",
+        "margin": 15.110645,
         "state": "vic"
     },
     "menzies": {
         "name": "Menzies",
+        "margin": 17.446559,
         "state": "vic"
     },
     "mitchell": {
         "name": "Mitchell",
+        "margin": 34.311887,
         "state": "nsw"
     },
     "moncrieff": {
         "name": "Moncrieff",
+        "margin": 34.987783,
         "state": "qld"
     },
     "moore": {
         "name": "Moore",
+        "margin": 22.384828,
         "state": "wa"
     },
     "moreton": {
         "name": "Moreton",
+        "margin": 2.263783,
         "state": "qld"
     },
     "murray": {
         "name": "Murray",
+        "margin": 40.701197,
         "state": "vic"
-    },
-    "new-england": {
-        "name": "New England",
-        "state": "nsw"
     },
     "newcastle": {
         "name": "Newcastle",
+        "margin": 24.981699,
         "state": "nsw"
     },
-    "north-sydney": {
+    "newengland": {
+        "name": "New England",
+        "margin": 43.032949,
+        "state": "nsw"
+    },
+    "northsydney": {
         "name": "North Sydney",
+        "margin": 28.110233,
         "state": "nsw"
     },
     "oconnor": {
         "name": "O'Connor",
+        "margin": 7.111689,
         "state": "wa"
     },
     "oxley": {
         "name": "Oxley",
+        "margin": 11.538569,
         "state": "qld"
     },
     "page": {
         "name": "Page",
+        "margin": 8.387988,
         "state": "nsw"
     },
     "parkes": {
         "name": "Parkes",
+        "margin": 37.714381,
         "state": "nsw"
     },
     "parramatta": {
         "name": "Parramatta",
+        "margin": 8.745228,
         "state": "nsw"
     },
     "paterson": {
         "name": "Paterson",
+        "margin": 10.654723,
         "state": "nsw"
     },
     "pearce": {
         "name": "Pearce",
+        "margin": 17.729937,
         "state": "wa"
     },
     "perth": {
         "name": "Perth",
+        "margin": 11.766466,
         "state": "wa"
     },
     "petrie": {
         "name": "Petrie",
+        "margin": 5.015452,
         "state": "qld"
     },
-    "port-adelaide": {
+    "portadelaide": {
         "name": "Port Adelaide",
+        "margin": 40.065723,
         "state": "sa"
     },
     "rankin": {
         "name": "Rankin",
+        "margin": 10.820854,
         "state": "qld"
     },
     "reid": {
         "name": "Reid",
+        "margin": 5.362435,
         "state": "nsw"
     },
     "richmond": {
         "name": "Richmond",
+        "margin": 13.987753,
         "state": "nsw"
     },
     "riverina": {
         "name": "Riverina",
+        "margin": 36.335224,
         "state": "nsw"
     },
     "robertson": {
         "name": "Robertson",
+        "margin": 1.990837,
         "state": "nsw"
     },
     "ryan": {
         "name": "Ryan",
+        "margin": 14.329357,
         "state": "qld"
     },
     "scullin": {
         "name": "Scullin",
+        "margin": 44.507433,
         "state": "vic"
     },
     "shortland": {
         "name": "Shortland",
+        "margin": 25.696128,
         "state": "nsw"
     },
     "solomon": {
         "name": "Solomon",
+        "margin": 3.504985,
         "state": "nt"
     },
     "stirling": {
         "name": "Stirling",
+        "margin": 11.094570,
         "state": "wa"
     },
     "sturt": {
         "name": "Sturt",
+        "margin": 6.863001,
         "state": "sa"
     },
     "swan": {
         "name": "Swan",
+        "margin": 5.059228,
         "state": "wa"
     },
     "sydney": {
         "name": "Sydney",
+        "margin": 34.132053,
         "state": "nsw"
     },
     "tangney": {
         "name": "Tangney",
+        "margin": 24.631288,
         "state": "wa"
     },
     "throsby": {
         "name": "Throsby",
+        "margin": 24.227304,
         "state": "nsw"
     },
     "wakefield": {
         "name": "Wakefield",
+        "margin": 23.908968,
         "state": "sa"
     },
     "wannon": {
         "name": "Wannon",
+        "margin": 14.586011,
         "state": "vic"
     },
     "warringah": {
         "name": "Warringah",
+        "margin": 26.187450,
         "state": "nsw"
     },
     "watson": {
         "name": "Watson",
+        "margin": 18.277160,
         "state": "nsw"
     },
     "wentworth": {
         "name": "Wentworth",
+        "margin": 29.722184,
         "state": "nsw"
     },
     "werriwa": {
         "name": "Werriwa",
+        "margin": 13.498154,
         "state": "nsw"
     },
-    "wide-bay": {
+    "widebay": {
         "name": "Wide Bay",
+        "margin": 31.228148,
         "state": "qld"
     },
     "wills": {
         "name": "Wills",
+        "margin": 45.274210,
         "state": "vic"
     },
     "wright": {
         "name": "Wright",
+        "margin": 20.301829,
         "state": "qld"
     }
 }
