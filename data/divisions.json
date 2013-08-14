@@ -219,7 +219,7 @@
         "margin": 27.345204,
         "state": "wa"
     },
-    "edenmonaro": {
+    "eden-monaro": {
         "name": "Eden-Monaro",
         "margin": 8.477912,
         "state": "nsw"
@@ -404,7 +404,7 @@
         "margin": 36.687795,
         "state": "qld"
     },
-    "kingsfordsmith": {
+    "kingsford-smith": {
         "name": "Kingsford Smith",
         "margin": 10.324397,
         "state": "nsw"
@@ -419,14 +419,14 @@
         "margin": 15.095895,
         "state": "vic"
     },
+    "la-trobe": {
+        "name": "La Trobe",
+        "margin": 1.819162,
+        "state": "vic"
+    },
     "lalor": {
         "name": "Lalor",
         "margin": 44.303601,
-        "state": "vic"
-    },
-    "latrobe": {
-        "name": "La Trobe",
-        "margin": 1.819162,
         "state": "vic"
     },
     "leichhardt": {
@@ -529,7 +529,7 @@
         "margin": 12.080334,
         "state": "vic"
     },
-    "melbourneports": {
+    "melbourne-ports": {
         "name": "Melbourne Ports",
         "margin": 15.110645,
         "state": "vic"
@@ -564,17 +564,17 @@
         "margin": 40.701197,
         "state": "vic"
     },
+    "new-england": {
+        "name": "New England",
+        "margin": 43.032949,
+        "state": "nsw"
+    },
     "newcastle": {
         "name": "Newcastle",
         "margin": 24.981699,
         "state": "nsw"
     },
-    "newengland": {
-        "name": "New England",
-        "margin": 43.032949,
-        "state": "nsw"
-    },
-    "northsydney": {
+    "north-sydney": {
         "name": "North Sydney",
         "margin": 28.110233,
         "state": "nsw"
@@ -624,7 +624,7 @@
         "margin": 5.015452,
         "state": "qld"
     },
-    "portadelaide": {
+    "port-adelaide": {
         "name": "Port Adelaide",
         "margin": 40.065723,
         "state": "sa"
@@ -734,7 +734,7 @@
         "margin": 13.498154,
         "state": "nsw"
     },
-    "widebay": {
+    "wide-bay": {
         "name": "Wide Bay",
         "margin": 31.228148,
         "state": "qld"
